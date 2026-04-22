@@ -28,3 +28,5 @@ WEEK-1
 Data was fetched and taken into consideration and deep analysis was done and data cleaning process took place and we cleaned the data and made extra features in the dataset like total sales, day of the order , status of the order using excel functions like vlookup.....
 
 then the cleaned data will be potrayed as charts as part of data visuliaztion for better understanding and clarity 
+
+week-1 output: data was cleaned and analyzed and the cleaned data in stored in folder data under cleaned file, in the format of csv and excel
