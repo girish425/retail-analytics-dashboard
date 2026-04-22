@@ -1,4 +1,4 @@
- Omnichannel Retail Sales & Inventory Analytics
+OMNICHANNEL RETAIL SALES AND INVENTORY ANALYTICS DASHBOARD
 
  📌 Project Objective
  
