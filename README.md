@@ -24,23 +24,43 @@ Analyze sales and inventory data to identify trends and optimize decisions.
 
 
 ## 📌 Project Progress Update
+
 ## ✅ Week 1: Foundational Setup & Data Cleaning — Completed
+
 Created and configured the GitHub repository
+
 Set up version control for Jupyter Notebooks and SQL scripts
+
 Imported raw retail dataset into Python/Excel
+
 Performed data cleaning:
+
 Handled NULL values
+
 Removed duplicate records
+
 Standardized date/time formats
+
 Validated data types across all columns
+
 ## ✅ Week 2: Relational Database Design & SQL Aggregations — Completed
+
 Imported cleaned dataset into SQL database
+
 Designed relational structure for efficient querying
+
 Wrote SQL queries using:
+
 GROUP BY, ORDER BY
+
 Aggregate functions (SUM, AVG)
+
 Generated key business insights:
+
 Total Revenue
+
 Best-Selling Products by Volume
+
 Geographic Sales Distribution
+
 Committed all SQL scripts with clear, semantic messages
