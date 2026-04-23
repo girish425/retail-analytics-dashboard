@@ -11,11 +11,17 @@ Tasks Completed
 3. Initial Data Inspection
 
 4. Data Quality Issues Identified
+   
  •	Missing values in some columns
+ 
  •	Duplicate records
+ 
  •	Extra spaces in text columns
+ 
  •	Inconsistent city names
+ 
  •	Incorrect data types
+ 
  •	Negative or invalid numeric values
 
 
