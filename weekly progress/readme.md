@@ -35,4 +35,3 @@ Tasks completed
 9. Saved Cleaned Dataset
 
 10. Summary of Cleaning Performed
-11. Converted Date Columns
