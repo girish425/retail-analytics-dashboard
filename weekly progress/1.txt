@@ -1,0 +1,10 @@
+***MONTHLY SALES TRENDS***
+---------------------------------------------
+This is based on the sample dataset which our team lead has provided. 
+
+
+* This chart shows how total sales change over time on a monthly basis.
+
+* Certain months have higher sales, indicating seasonal demand patterns.
+
+* This helps businesses plan inventory and promotions in peak periods.
