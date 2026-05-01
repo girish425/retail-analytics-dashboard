@@ -35,3 +35,7 @@ Tasks completed
 9. Saved Cleaned Dataset
 
 10. Summary of Cleaning Performed
+
+## WEEK-3(Data Validation Support)
+---------------------------------
+Day - 1: reviewed dashboard team feedback on inconsistent city names
