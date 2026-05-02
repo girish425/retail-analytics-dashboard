@@ -13,3 +13,20 @@
 2)Total Orders: 5044
 3)Total Quantity Sold: 13K
 4)Average Order Value (AOV): 6.34K
+
+🔹 Visualizations
+----------------------
+1)Sales by Product
+   -Bar chart showing total sales for each product
+   -Helps identify top-performing items like Bags, Headphones, Phones
+2)Yearly Sales Trend
+   -Line chart comparing sales across years (2022–2024)
+   -Useful for growth analysis
+3)Monthly City Orders
+   -Line chart showing order count by month
+   -Helps track seasonal demand patterns
+4)Sales by Channel
+   -Donut chart showing contribution from:
+     -Online
+     -App
+     -Store
