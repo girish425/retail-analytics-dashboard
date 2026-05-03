@@ -1,0 +1,9 @@
+## Top 10 Products by Total Sales
+
+This charts tells us about the following:
+
+* A small number of products contribute the majority of total sales.
+
+* These top-performing products are key revenue drivers.
+
+* Focusing on their availability and promotion can increase overall sales.
