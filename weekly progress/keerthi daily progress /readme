@@ -1,5 +1,4 @@
 
-
 ## WEEK-1(DATA COLLECTION AND INITIAL INSPECTION)
 
 Tasks Completed
@@ -37,7 +36,16 @@ Tasks completed
 10. Summary of Cleaning Performed
 
 ## WEEK-3(Data Validation Support)
----------------------------------
+
+Task Completed
+--------------
 Day - 1:reviewed dashboard team feedback on inconsistent city names
+
 Day - 2:standardized city names for clean dashboard visuals
+
 Day - 3:updated project folder structure and setup instructions
+
+Day - 4:handled price outliers identified during sales analysis
+
+Day -5:fixed quantity anomalies affecting KPI calculations.
+
