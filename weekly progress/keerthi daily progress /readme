@@ -47,5 +47,7 @@ Day - 3:updated project folder structure and setup instructions
 
 Day - 4:handled price outliers identified during sales analysis
 
-Day -5:fixed quantity anomalies affecting KPI calculations.
+Day - 5:fixed quantity anomalies affecting KPI calculations.
 
+Day - 6:re-exported validated dataset for dashboard development
+        and updated merged dataset after team quality feedback.
