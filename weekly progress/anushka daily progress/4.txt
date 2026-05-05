@@ -1,0 +1,12 @@
+4. Order Value Distribution
+-------------------------------------------------------
+
+Insights:
+
+
+
+* Most orders fall within a specific price range, showing typical customer spending behavior.
+
+* Very high-value orders are less frequent and appear as outliers.
+
+* This helps in identifying pricing strategies and discount thresholds.
