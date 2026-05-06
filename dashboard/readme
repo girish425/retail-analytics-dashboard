@@ -31,8 +31,16 @@
      -App
      -Store
 
+
 🎛️ Filters & Interactivity
 -----------------------------------
 -Date Range Slicer: Filter data from 2022 to 2024
 -City Filter: Select between Hyderabad and Mumbai
 -Dynamic visuals update based on user selection
+
+
+🛠️ Tools & Technologies
+-------------------------------
+-Power BI – Dashboard creation
+-Data Modeling – Relationships & measures
+-DAX (Data Analysis Expressions) – KPI calculations
