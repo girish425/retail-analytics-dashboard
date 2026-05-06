@@ -64,3 +64,29 @@ Best-Selling Products by Volume
 Geographic Sales Distribution
 
 Committed all SQL scripts with clear, semantic messages
+
+## 📊 Week 3: Dashboard Architecture & Data Visualization – Completed
+✅ Overview
+
+Week 3 focused on building a user-facing Business Intelligence dashboard by connecting processed data to visualization tools and designing interactive insights.
+
+🔧 Tasks Completed
+🔗 Data Integration
+Successfully connected the dataset to Power BI / Tableau using cleaned and structured data sources.
+📈 Interactive Visualizations Created
+Line charts for analyzing time-series trends
+Bar charts to evaluate product performance
+Heatmaps to identify peak activity hours
+🎯 Dashboard Design & Architecture
+Designed a structured and user-friendly dashboard layout for better readability and insights.
+🎛️ Filters & Slicers Implemented
+Added interactive slicers to allow users to filter data by:
+Month
+City / Location
+🔍 Drill-Down Capabilities
+Enabled users to explore data in detail through dynamic filtering and interactions.
+🚀 Outcome
+
+A fully functional and interactive dashboard was developed, providing meaningful insights and allowing users to explore data efficiently through visual analytics.
+
+✅ Status: Week 3 Successfully Completed
