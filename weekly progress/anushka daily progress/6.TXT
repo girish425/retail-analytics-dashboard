@@ -1,0 +1,9 @@
+ Quantity vs Total Sales (Scatter Plot)
+------------------------------------------------------
+
+
+* Sales generally increase as the quantity sold increases.
+
+* Some orders show high sales even with low quantity, indicating higher-priced products.
+
+* This helps understand pricing and purchase behavior.
