@@ -1,0 +1,12 @@
+Business Problem Statement
+--------------------------
+##Retail companies operating through both online and offline sales channels often face challenges such as:
+
+1. Inconsistent sales records
+2. Duplicate transactions
+3. Missing inventory information
+4. Incorrect product pricing
+5. Difficulty identifying top-selling products
+6. Lack of centralized business insights
+
+The project aims to solve these issues by creating a reliable and clean dataset for analytical reporting and dashboard generation.
