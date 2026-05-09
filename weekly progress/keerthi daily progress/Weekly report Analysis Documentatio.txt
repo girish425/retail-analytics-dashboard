@@ -1,0 +1,9 @@
+Weekly report Analysis Documentation 
+Documented Full Data Cleaning Pipeline
+Prepared complete documentation of all cleaning and preprocessing steps performed from Week 1 to Week 4.
+Included:
+•	Missing value handling 
+•	Duplicate removal 
+•	Standardization steps 
+•	Feature creation 
+•	Validation checks
