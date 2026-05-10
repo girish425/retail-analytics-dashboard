@@ -1,0 +1,10 @@
+Sales by City
+
+
+Sales vary across different cities, with some cities generating higher revenue.
+
+
+This shows regional differences in customer demand.
+
+
+Businesses can target high-performing cities with focused campaigns.
