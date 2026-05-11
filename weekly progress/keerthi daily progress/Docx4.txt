@@ -1,0 +1,9 @@
+7. Technologies Used
+Technology	Purpose
+Python	Data processing
+Pandas	Data cleaning and transformation
+NumPy	Numerical operations
+Jupyter Notebook	Development environment
+Git & GitHub	Version control
+Power BI / Tableau	Dashboard visualization
+SQL	Data querying
