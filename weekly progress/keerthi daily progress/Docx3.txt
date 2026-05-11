@@ -1,0 +1,13 @@
+5. Project Objectives
+
+The main objectives of the project are:
+
+Import and inspect raw retail datasets
+Handle missing and duplicate records
+Standardize data formats
+Validate price and quantity fields
+Merge datasets from different sources
+Create useful business features
+Support EDA and dashboard teams
+Perform final data quality checks
+Generate a clean final dataset
