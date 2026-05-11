@@ -1,0 +1,13 @@
+4. Project Objectives
+
+The main objectives of the project are:
+
+Collect and clean raw retail datasets
+Remove missing and duplicate values
+Standardize dataset formats
+Validate sales and inventory records
+Merge multiple datasets
+Create business-related features
+Support EDA and dashboard teams
+Generate a final validated dataset
+Document the complete data cleaning pipeline
