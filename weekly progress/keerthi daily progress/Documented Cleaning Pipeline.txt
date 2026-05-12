@@ -1,0 +1,29 @@
+Documented Cleaning Pipeline
+-------------------------------------
+1. Prepared complete documentation explaining:
+
+1. Cleaning methods
+2. Validation methods
+3. Dataset transformations
+4. Feature engineering
+
+2. Updated README File
+
+Included:
+Dataset descriptions
+Folder structure
+Setup instructions
+Project workflow
+
+3. Final Consistency Checks
+
+Verified:
+No null values
+No duplicate rows
+Correct datatypes
+Positive numeric values
+Proper date formats
+
+4. Exported Final Dataset
+merged_df.to_csv("final_dataset.csv", index=False)
+
