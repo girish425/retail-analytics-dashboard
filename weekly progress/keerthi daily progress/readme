@@ -41,3 +41,30 @@ Day - 1:reviewed dashboard team feedback on inconsistent city names
 Day - 2:standardized city names for clean dashboard visuals
 
 Day - 3:updated project folder structure and setup instructions
+
+Day - 4:handled price outliers identified during sales analysis
+
+Day - 5:fixed quantity anomalies affecting KPI calculations.
+
+Day - 6:re-exported validated dataset for dashboard development
+        and updated merged dataset after team quality feedback.
+
+Day - 7 validation: checked duplicate rows and null values before final visuals
+
+##WEEK - 4(Documentation & Final Checks)
+
+Task Completed
+--------------
+Day - 1:documented complete data cleaning workflow for project report
+
+Day - 2:added sales inventory and customer dataset descriptions to README
+
+Day - 3:docs: updated project folder structure and setup instructions
+
+Day - 4:final: performed final null value and datatype consistency checks
+
+Day - 5:final: exported final_dataset for team submission
+
+Day - 6: final: shared cleaned final data with dashboard and EDA teammates
+
+Day - 7:final: completed member-1 data quality tasks for internship project
