@@ -172,7 +172,8 @@ Future improvements for the project:
 
 
 ## Dashboard Page 2
-(Add screenshot here)
+<img width="1373" height="744" alt="image" src="https://github.com/user-attachments/assets/48470924-8974-4cfd-89ec-985ef11f12d9" />
+
 
 ---
 
