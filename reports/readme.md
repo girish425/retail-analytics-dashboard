@@ -1,92 +1,102 @@
-# 📈 Key Business Insights
+## OMNICHANNEL RETAIL SALES AND INVENTORY ANALYTICS DASHBOARD
+
+ 📌 Project Objective
+ 
+Analyze sales and inventory data to identify trends and optimize decisions.
+
+ 👥 Team Members
+
+ Member 1 – Data Cleaning
+ 
+ Member 2 – SQL Analyst
+ 
+ Member 3 – EDA
+ 
+ Member 4 – Dashboard & Documentation (Team Lead)
+
+## 📁 Folder Structure
+- data/
+- notebooks/
+- sql/
+- dashboard/
+- reports/
+- docs/
 
 
-1️⃣ Sales Performance Overview
-----------------------------------
+## 📌 Project Progress Update
 
-   - The dashboard recorded a Total Sales of 13.80M.
-     
-   -A total of 2137 orders were processed during the selected period.
+## ✅ Week 1: Foundational Setup & Data Cleaning — Completed
+
+Created and configured the GitHub repository
+
+Set up version control for Jupyter Notebooks and SQL scripts
+
+Imported raw retail dataset into Python/Excel
+
+Performed data cleaning:
+
+Handled NULL values
+
+Removed duplicate records
+
+Standardized date/time formats
+
+Validated data types across all columns
+
+## ✅ Week 2: Relational Database Design & SQL Aggregations — Completed
+
+Imported cleaned dataset into SQL database
+
+Designed relational structure for efficient querying
+
+Wrote SQL queries using:
+
+GROUP BY, ORDER BY
+
+Aggregate functions (SUM, AVG)
+
+Generated key business insights:
+
+Total Revenue
+
+Best-Selling Products by Volume
+
+Geographic Sales Distribution
+
+Committed all SQL scripts with clear, semantic messages
+
+## 📊 Week 3: Dashboard Architecture & Data Visualization – Completed
+
+🔧 Tasks Completed
+
+🔗 Data Integration
+
+-Successfully connected the dataset to Power BI / Tableau using cleaned and structured data sources.
+
+📈 Interactive Visualizations Created
+
+-Line charts for analyzing time-series trends
+
+-Bar charts to evaluate product performance
+
+-Heatmaps to identify peak activity hours
+
+🎯 Dashboard Design & Architecture
+
+-Designed a structured and user-friendly dashboard layout for better readability and insights.
+
+🎛️ Filters & Slicers Implemented
+
+-Added interactive slicers to allow users to filter data by:
+
+   -Month
    
-   -Overall product quantity sold reached 5358 units.
+   -City / Location
    
-   -The Average Order Value (AOV) was approximately 6.46K, indicating strong customer purchase value.
+🔍 Drill-Down Capabilities
 
-2️⃣ Sales Trend Analysis
-------------------------------
-   -Sales in 2022 were significantly higher compared to 2023.
-   
-   -The line chart shows a noticeable decline in sales in 2023, indicating:
-   
-   -Reduced customer demand
-   
-   -Possible inventory or seasonal issues
-   
-   -Need for better marketing strategies
-   
--Conclusion: 
-               
-               The business performed strongly in 2022 but experienced reduced revenue growth in 2023,
-               highlighting the importance of sales optimization and customer retention strategies.
+-Enabled users to explore data in detail through dynamic filtering and interactions.
 
-3️⃣ Channel Performance Insights
------------------------------------------
-   -The Online channel generated the highest sales contribution.
-   
-   -Mobile App and Store channels also contributed almost equally.
-   
-   -Online sales accounted for the largest share, proving increasing customer preference toward digital shopping.
-   
--Conclusion: The company should prioritize:
+🚀 Outcome
 
-                         -Online promotions
-                         -Website optimization
-                         -Digital customer engagement
-                         -App-based offers and campaigns
-
-4️⃣ Product Performance Analysis
-------------------------------------
-    
-    -Top Performing Product:
-    
-    -Headphones emerged as the best-selling product.
--Category Insights:
-
-    -Clothing and Electronics categories contributed the highest sales.
-    
-    -Sports and Home categories also showed stable performance.
-    
--Conclusion: The business should:
-
-                        -Maintain sufficient stock for high-demand products
-                        -Focus marketing campaigns on top-performing categories
-                        -Introduce bundle offers for electronics and clothing products
-
-5️⃣ City-wise Sales Analysis
------------------------------------
-
-    -Mumbai generated the highest sales among all cities.
-    
-    -Hyderabad and Bangalore also contributed significantly.
-    
-    -Delhi showed comparatively lower sales performance.
-    
--Conclusion:
-                  
-                  -High-performing cities should receive additional inventory and targeted promotions.
-                  -Lower-performing regions may require localized marketing strategies and customer engagement improvements.
-
-
-📦 Inventory Insights
-------------------------------------
-
-    -Stock availability is balanced across all products.
-    
-    -Products such as Shirts, Phones, and Headphones maintain high inventory levels.
-    
-    -No major stock shortages were identified.
-    
--Conclusion: 
-
-                The inventory management process is efficient and supports uninterrupted sales operations.
-                However, continuous monitoring is necessary to avoid overstocking or understocking situations.
+-A fully functional and interactive dashboard was developed, providing meaningful insights and allowing users to explore data efficiently through visual analytics.
