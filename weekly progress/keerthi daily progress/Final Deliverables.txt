@@ -1,0 +1,66 @@
+Final Deliverables
+----------------------
+The following outputs were successfully completed:
+
+cleaned_sales.csv
+merged_dataset.csv
+validated_dataset.csv
+final_dataset.csv
+data_cleaning_notebook.ipynb
+README.md
+Project documentation report
+
+GitHub Workflow
+---------------------
+The project followed a continuous GitHub contribution workflow.
+
+Activities Performed:
+Daily commits
+Semantic commit messages
+Version tracking
+Collaborative updates
+
+Challenges Faced
+---------------------
+Challenges encountered during the project:
+
+Missing records
+Duplicate transactions
+Incorrect date formats
+Negative numeric values
+Inconsistent text formatting
+Outlier values affecting analysis
+
+Solutions Implemented
+----------------------------
+Solutions applied:
+
+Mean/median imputation
+Duplicate removal
+Text standardization
+Datatype corrections
+Outlier removal using IQR
+Validation and consistency checks
+
+Project Outcome
+--------------------
+The project successfully transformed raw retail datasets into a clean, structured, and validated analytical dataset.
+
+The final dataset is suitable for:
+
+Exploratory Data Analysis
+Dashboard reporting
+SQL analysis
+Retail sales insights
+Inventory analytics
+
+Future Enhancements
+---------------------------
+Possible future improvements:
+
+Automated ETL pipeline
+Real-time dashboard integration
+Machine learning sales prediction
+Customer segmentation
+Inventory forecasting
+
