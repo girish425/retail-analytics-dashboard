@@ -1,8 +1,0 @@
- KPI Summary (Highly Recommended)
------------------------------------------------------
-
-* The KPIs provide a quick overview of overall business performance.
-
-* Metrics like total sales, total orders, and average order value summarize customer behavior.
-
-* These values help in tracking growth and setting business targets.
