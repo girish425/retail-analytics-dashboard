@@ -1,0 +1,8 @@
+Stock Status vs Sales (Business Insight Chart)
+-----------------------------------------------------------------
+
+* Products marked as “In Stock” generate higher sales compared to out-of-stock items.
+
+* Stock availability directly impacts sales performance.
+
+* Proper inventory management can prevent revenue loss.
