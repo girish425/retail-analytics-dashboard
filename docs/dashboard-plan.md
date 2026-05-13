@@ -1,19 +1,16 @@
 # Dashboard Plan
 
-## Page 1: Overview
+## Page 1: Home page
 - Total Sales
 - Revenue Trend (Line Chart)
-- Top Products
+- Key Insights
 
-## Page 2: Inventory
-- Stock Levels
-- Low Stock Alerts
-
-## Page 3: Regional Analysis
-- Sales by City
-- Category Performance
+## Page 2: Inventory page
+- Stock available based on the product
+- Table view of summary metrics
+- Visualizations defining and predicting the inventory
 
 ## Filters
 - Date
 - City
-- Category
+
