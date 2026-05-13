@@ -40,11 +40,8 @@
 -Conclusion: The company should prioritize:
 
                          -Online promotions
-                         
                          -Website optimization
-                         
                          -Digital customer engagement
-                         
                          -App-based offers and campaigns
 
 4️⃣ Product Performance Analysis
@@ -62,9 +59,7 @@
 -Conclusion: The business should:
 
                         -Maintain sufficient stock for high-demand products
-                        
                         -Focus marketing campaigns on top-performing categories
-                        
                         -Introduce bundle offers for electronics and clothing products
 
 5️⃣ City-wise Sales Analysis
@@ -78,9 +73,8 @@
     
 -Conclusion:
                   
-                   -High-performing cities should receive additional inventory and targeted promotions.
-                   
-                   -Lower-performing regions may require localized marketing strategies and customer engagement improvements.
+                  -High-performing cities should receive additional inventory and targeted promotions.
+                  -Lower-performing regions may require localized marketing strategies and customer engagement improvements.
 
 
 📦 Inventory Insights
@@ -95,5 +89,4 @@
 -Conclusion: 
 
                 The inventory management process is efficient and supports uninterrupted sales operations.
-                
                 However, continuous monitoring is necessary to avoid overstocking or understocking situations.
