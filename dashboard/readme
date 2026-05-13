@@ -1,56 +1,9 @@
-🎯 Objectives
-----------------------------------
-1)Track overall sales performance
-2)Analyze order trends and quantity sold
-3)Compare performance across cities and sales channels
-4)Identify top-performing products
-5)Monitor monthly and yearly sales patterns
+📌 Dashboard Overview
 
-📊 Key Features
--------------------
-🔹 KPI Cards
-1)Total Sales: 31.99M
-2)Total Orders: 5044
-3)Total Quantity Sold: 13K
-4)Average Order Value (AOV): 6.34K
+This interactive dashboard analyzes omnichannel retail sales and inventory performance across multiple cities, product categories, and sales channels. The dashboard provides business insights related to sales trends, customer purchasing behavior, inventory availability, and product performance.
 
-🔹 Visualizations
-----------------------
-1)Sales by Product
-   -Bar chart showing total sales for each product
-   -Helps identify top-performing items like Bags, Headphones, Phones
-2)Yearly Sales Trend
-   -Line chart comparing sales across years (2022–2024)
-   -Useful for growth analysis
-3)Monthly City Orders
-   -Line chart showing order count by month
-   -Helps track seasonal demand patterns
-4)Sales by Channel
-   -Donut chart showing contribution from:
-     -Online
-     -App
-     -Store
+The dashboard was built using:
 
-
-🎛️ Filters & Interactivity
------------------------------------
--Date Range Slicer: Filter data from 2022 to 2024
--City Filter: Select between Hyderabad and Mumbai
--Dynamic visuals update based on user selection
-
-
-🛠️ Tools & Technologies
--------------------------------
--Power BI – Dashboard creation
--Data Modeling – Relationships & measures
--DAX (Data Analysis Expressions) – KPI calculations
-
-📈 Insights You Can Derive
-------------------------------------
--Which products generate the most revenue
--Which sales channel performs best
--Seasonal trends in customer orders
--Year-over-year business growth
--City-wise demand comparison
-
-the sample final dashboard home page will be uploaded here 
+Power BI
+SQL
+Python (Data Cleaning & EDA)
