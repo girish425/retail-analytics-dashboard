@@ -1,5 +1,5 @@
 # 📈 Key Business Insights
-=======================================
+
 
 1️⃣ Sales Performance Overview
 ----------------------------------
