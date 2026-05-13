@@ -1,104 +1,187 @@
-## OMNICHANNEL RETAIL SALES AND INVENTORY ANALYTICS DASHBOARD
+# Omnichannel Retail Sales & Inventory Analytics Dashboard
 
- 📌 Project Objective
- 
-Analyze sales and inventory data to identify trends and optimize decisions.
+## 📌 Project Overview
+The Omnichannel Retail Sales & Inventory Analytics Dashboard is an interactive business intelligence solution developed to analyze retail sales, inventory availability, customer purchasing trends, and sales channel performance across multiple cities and product categories.
 
- 👥 Team Members
+This project helps businesses monitor sales performance, optimize inventory management, and make data-driven decisions using interactive visualizations and business metrics.
 
- Member 1 – Data Cleaning
- 
- Member 2 – SQL Analyst
- 
- Member 3 – EDA
- 
- Member 4 – Dashboard & Documentation (Team Lead)
+---
 
-## 📁 Folder Structure
-- data/
-- notebooks/
-- sql/
-- dashboard/
-- reports/
-- docs/
+# 🎯 Project Objectives
+- Analyze retail sales performance across multiple channels
+- Monitor inventory availability and stock levels
+- Identify top-performing products and categories
+- Compare city-wise sales performance
+- Generate business insights using interactive dashboards
+- Improve decision-making through data visualization
 
+---
 
-## 📌 Project Progress Update
+# 👥 Team Members & Responsibilities
 
-## ✅ Week 1: Foundational Setup & Data Cleaning — Completed
+## Member 1 – Data Collection & Cleaning
+- Imported and cleaned raw datasets
+- Removed duplicates and handled missing values
+- Standardized data formats
+- Created cleaned datasets
 
-Created and configured the GitHub repository
+## Member 2 – SQL & Business Metrics
+- Designed SQL database schema
+- Wrote SQL queries for business analysis
+- Generated KPI metrics
+- Performed time-based sales analysis
 
-Set up version control for Jupyter Notebooks and SQL scripts
+## Member 3 – EDA & Visualization
+- Conducted Exploratory Data Analysis (EDA)
+- Created sales trend analysis
+- Generated charts and visual insights
+- Validated analytical findings
 
-Imported raw retail dataset into Python/Excel
+## Member 4 – Dashboard & Documentation
+- Designed interactive Power BI dashboard
+- Defined KPIs and dashboard layout
+- Created final documentation and reports
+- Integrated project components
 
-Performed data cleaning:
+---
 
-Handled NULL values
+# 🛠️ Tools & Technologies Used
 
-Removed duplicate records
+| Tool / Technology | Purpose |
+|------------------|---------|
+| Power BI | Dashboard Development |
+| Python | Data Cleaning & EDA |
+| Pandas | Data Manipulation |
+| SQL | Data Analysis |
+| Excel / CSV | Data Storage |
+| GitHub | Version Control & Collaboration |
 
-Standardized date/time formats
+---
 
-Validated data types across all columns
+# 📂 Dataset Information
 
-## ✅ Week 2: Relational Database Design & SQL Aggregations — Completed
+The project uses retail datasets containing:
+- Sales transactions
+- Product inventory
+- Customer details
+- Store and city information
 
-Imported cleaned dataset into SQL database
+### Main Data Fields
+- Product Name
+- Sales Amount
+- Quantity
+- City
+- Category
+- Channel
+- Inventory Stock
 
-Designed relational structure for efficient querying
+---
 
-Wrote SQL queries using:
+# 🧹 Data Cleaning Process
 
-GROUP BY, ORDER BY
+The following preprocessing steps were performed:
+- Removed duplicate records
+- Handled missing values
+- Standardized column names
+- Converted date formats
+- Validated numerical fields
+- Created calculated columns:
+  - Total Sales
+  - Order Day
+  - Weekday/Weekend
+  - Stock Status
 
-Aggregate functions (SUM, AVG)
+---
 
-Generated key business insights:
+# 📊 Dashboard Features
 
-Total Revenue
+## Dashboard Page 1 – Sales Overview
+Features included:
+- KPI Cards
+  - Total Sales
+  - Total Orders
+  - Total Quantity
+  - Average Order Value (AOV)
+- Sales Trend Analysis
+- Channel-wise Sales Distribution
+- Date and City Filters
+- Key Insights Section
 
-Best-Selling Products by Volume
+## Dashboard Page 2 – Product & Inventory Analysis
+Features included:
+- Product-wise Inventory Analysis
+- Category-wise Sales Distribution
+- City-wise Sales Comparison
+- Product Sales Table
+- Inventory Availability Monitoring
 
-Geographic Sales Distribution
+---
 
-Committed all SQL scripts with clear, semantic messages
+# 📈 Key Insights
 
-## 📊 Week 3: Dashboard Architecture & Data Visualization – Completed
+## Sales Performance
+- Total Sales reached 13.80M
+- 2137 total orders were processed
+- Average Order Value was approximately 6.46K
 
-🔧 Tasks Completed
+## Channel Analysis
+- Online sales channel generated the highest revenue
+- Mobile App and Store channels contributed consistently
 
-🔗 Data Integration
+## Product Performance
+- Headphones emerged as the top-selling product
+- Clothing and Electronics categories generated high sales
 
--Successfully connected the dataset to Power BI / Tableau using cleaned and structured data sources.
+## City-wise Analysis
+- Mumbai recorded the highest sales
+- Hyderabad and Bangalore showed strong performance
+- Delhi had comparatively lower sales
 
-📈 Interactive Visualizations Created
+## Inventory Insights
+- Inventory levels remained stable across products
+- No major stock shortages were identified
 
--Line charts for analyzing time-series trends
+---
 
--Bar charts to evaluate product performance
+# 📌 Business Recommendations
 
--Heatmaps to identify peak activity hours
+- Focus on expanding online sales strategies
+- Increase promotions for high-performing categories
+- Improve marketing in low-performing cities
+- Monitor inventory continuously to avoid overstocking
+- Implement predictive analytics for future forecasting
 
-🎯 Dashboard Design & Architecture
+---
 
--Designed a structured and user-friendly dashboard layout for better readability and insights.
+# 🚀 Future Enhancements
 
-🎛️ Filters & Slicers Implemented
+Future improvements for the project:
+- Customer segmentation analysis
+- Sales forecasting using Machine Learning
+- Profit and margin analysis
+- Real-time dashboard updates
+- AI-based inventory recommendations
 
--Added interactive slicers to allow users to filter data by:
+---
 
-   -Month
-   
-   -City / Location
-   
-🔍 Drill-Down Capabilities
+# 📷 Dashboard Screenshots
 
--Enabled users to explore data in detail through dynamic filtering and interactions.
+## Dashboard Page 1
+(Add screenshot here)
 
-🚀 Outcome
+## Dashboard Page 2
+(Add screenshot here)
 
--A fully functional and interactive dashboard was developed, providing meaningful insights and allowing users to explore data efficiently through visual analytics.
+---
 
+# ✅ Conclusion
 
+The Omnichannel Retail Sales & Inventory Analytics Dashboard successfully provides meaningful business insights through interactive visualizations and analytical reporting.
+
+The project demonstrates how data analytics and business intelligence tools can improve retail decision-making, optimize inventory management, and enhance overall operational efficiency.
+
+This dashboard can help organizations:
+- Track sales performance
+- Analyze customer purchasing behavior
+- Monitor inventory
+- Improve strategic planning
