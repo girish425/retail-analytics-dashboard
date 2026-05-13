@@ -26,7 +26,8 @@
    
 -Conclusion: 
                
-               The business performed strongly in 2022 but experienced reduced revenue growth in 2023, highlighting the importance of sales optimization and customer retention strategies.
+               The business performed strongly in 2022 but experienced reduced revenue growth in 2023,
+               highlighting the importance of sales optimization and customer retention strategies.
 
 3️⃣ Channel Performance Insights
 -----------------------------------------
@@ -93,4 +94,6 @@
     
 -Conclusion: 
 
-                The inventory management process is efficient and supports uninterrupted sales operations. However, continuous monitoring is necessary to avoid overstocking or understocking situations.
+                The inventory management process is efficient and supports uninterrupted sales operations.
+                
+                However, continuous monitoring is necessary to avoid overstocking or understocking situations.
