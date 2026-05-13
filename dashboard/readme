@@ -1,27 +1,27 @@
  Dashboard Overview
------------------------------------
-
-This interactive dashboard analyzes omnichannel retail sales and inventory performance across multiple cities, product categories, and sales channels. The dashboard provides business insights related to sales trends, customer purchasing behavior, inventory availability, and product performance.
-
-The dashboard was built using:
-
--Power BI
--SQL
--Python (Data Cleaning & EDA)
+====================================
+-This interactive dashboard analyzes omnichannel retail sales and inventory performance across multiple cities, product categories, and sales channels. The dashboard provides business insights related to sales trends, customer purchasing behavior, inventory availability, and product performance.
+-The dashboard was built using:
+  -Power BI
+  -SQL
+  -Python (Data Cleaning & EDA)
 
 📈 Key Business Insights
+---------------------------------
 1️⃣ Sales Performance Overview
-The dashboard recorded a Total Sales of 13.80M.
-A total of 2137 orders were processed during the selected period.
-Overall product quantity sold reached 5358 units.
-The Average Order Value (AOV) was approximately 6.46K, indicating strong customer purchase value.
+----------------------------------
+   - The dashboard recorded a Total Sales of 13.80M.
+   -A total of 2137 orders were processed during the selected period.
+   -Overall product quantity sold reached 5358 units.
+   -The Average Order Value (AOV) was approximately 6.46K, indicating strong customer purchase value.
 2️⃣ Sales Trend Analysis
-Sales in 2022 were significantly higher compared to 2023.
-The line chart shows a noticeable decline in sales in 2023, indicating:
-Reduced customer demand
-Possible inventory or seasonal issues
-Need for better marketing strategies
-Conclusion:
+------------------------------
+   -Sales in 2022 were significantly higher compared to 2023.
+   -The line chart shows a noticeable decline in sales in 2023, indicating:
+   -Reduced customer demand
+-Possible inventory or seasonal issues
+-Need for better marketing strategies
+-Conclusion:
 
 The business performed strongly in 2022 but experienced reduced revenue growth in 2023, highlighting the importance of sales optimization and customer retention strategies.
 
