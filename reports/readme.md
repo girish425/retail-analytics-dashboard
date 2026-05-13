@@ -1,10 +1,10 @@
-## OMNICHANNEL RETAIL SALES AND INVENTORY ANALYTICS DASHBOARD
+# OMNICHANNEL RETAIL SALES AND INVENTORY ANALYTICS DASHBOARD
 
- 📌 Project Objective
+ ## 📌 Project Objective
  
 Analyze sales and inventory data to identify trends and optimize decisions.
 
- 👥 Team Members
+ ### 👥 Team Members
 
  Member 1 – Data Cleaning
  
