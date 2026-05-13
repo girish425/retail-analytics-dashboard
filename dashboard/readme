@@ -59,42 +59,28 @@
 
 📦 Inventory Insights
 ------------------------------------
-Stock availability is balanced across all products.
-Products such as Shirts, Phones, and Headphones maintain high inventory levels.
-No major stock shortages were identified.
-Conclusion:
-
-The inventory management process is efficient and supports uninterrupted sales operations. However, continuous monitoring is necessary to avoid overstocking or understocking situations.
+    -Stock availability is balanced across all products.
+    -Products such as Shirts, Phones, and Headphones maintain high inventory levels.
+    -No major stock shortages were identified.
+-Conclusion: The inventory management process is efficient and supports uninterrupted sales operations. However, continuous monitoring is necessary to avoid overstocking or understocking situations.
 
 💡 Final Conclusions
+=================================
 
 This dashboard successfully provides:
 
-Real-time sales monitoring
-Product performance analysis
-Inventory tracking
-Regional sales comparison
-Channel-wise business insights
+-Real-time sales monitoring
+-Product performance analysis
+-Inventory tracking
+-Regional sales comparison
+-Channel-wise business insights
 
 The analysis helps stakeholders:
 
-Improve decision-making
-Optimize inventory levels
-Increase online sales performance
-Identify high-performing products and cities
-Enhance overall retail business efficiency
-🚀 Future Enhancements
+-Improve decision-making
+-Optimize inventory levels
+-Increase online sales performance
+-Identify high-performing products and cities
+-Enhance overall retail business efficiency
 
-Future improvements that can be added:
 
-Customer segmentation analysis
-Predictive sales forecasting
-AI-based inventory recommendations
-Profit and margin analysis
-Real-time data integration
-🛠️ Tools & Technologies Used
-Power BI
-Python
-Pandas
-SQL
-Excel / CSV
