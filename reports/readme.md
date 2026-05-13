@@ -3,6 +3,7 @@
 
 1️⃣ Sales Performance Overview
 ----------------------------------
+
    - The dashboard recorded a Total Sales of 13.80M.
      
    -A total of 2137 orders were processed during the selected period.
@@ -23,7 +24,9 @@
    
    -Need for better marketing strategies
    
--Conclusion: The business performed strongly in 2022 but experienced reduced revenue growth in 2023, highlighting the importance of sales optimization and customer retention strategies.
+-Conclusion: 
+               
+               The business performed strongly in 2022 but experienced reduced revenue growth in 2023, highlighting the importance of sales optimization and customer retention strategies.
 
 3️⃣ Channel Performance Insights
 -----------------------------------------
@@ -40,6 +43,7 @@
                          -Website optimization
                          
                          -Digital customer engagement
+                         
                          -App-based offers and campaigns
 
 4️⃣ Product Performance Analysis
@@ -87,4 +91,6 @@
     
     -No major stock shortages were identified.
     
--Conclusion: The inventory management process is efficient and supports uninterrupted sales operations. However, continuous monitoring is necessary to avoid overstocking or understocking situations.
+-Conclusion: 
+
+                The inventory management process is efficient and supports uninterrupted sales operations. However, continuous monitoring is necessary to avoid overstocking or understocking situations.
