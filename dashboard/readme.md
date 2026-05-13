@@ -13,17 +13,25 @@
 ## This dashboard successfully provides:
 
 -Real-time sales monitoring
+
 -Product performance analysis
+
 -Inventory tracking
+
 -Regional sales comparison
+
 -Channel-wise business insights
 
 ## The analysis helps stakeholders:
 
 -Improve decision-making
+
 -Optimize inventory levels
+
 -Increase online sales performance
+
 -Identify high-performing products and cities
+
 -Enhance overall retail business efficiency
 
 
