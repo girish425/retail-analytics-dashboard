@@ -10,15 +10,15 @@ Based on the EDA results, I documented important observations and shared insight
 My role played a crucial part in transforming raw data into meaningful and interpretable insights.
 
 # *Week 1: Problem Understanding & Initial Data Exploration* 
-* # Day 1: 
+* ## Day 1: 
 I was introduced to the project objective and dataset. I understood the problem statement and business context behind the data. I explored the dataset structure by checking rows, columns, and basic metadata.
-* # Day 2: 
+* ## Day 2: 
 I studied each column in detail to understand what information it represented. I identified numerical, categorical, and time-based variables and noted their relevance to the analysis.
-* # Day 3: 
+* ## Day 3: 
 I performed basic statistical analysis such as mean, median, count, and range to get an initial understanding of data distribution. This helped identify unusual values and data quality issues.
-* # Day 4: 
+* ## Day 4: 
 I checked for missing values and duplicate records. I documented initial observations and potential data issues that needed cleaning in the next phase.
-* # Day 5: 
+* ## Day 5: 
 I summarized Week 1 findings and finalized the analysis plan, deciding which variables and metrics would be important for deeper analysis.
 __________________________________________________________________________________________________________________________________________________
 
