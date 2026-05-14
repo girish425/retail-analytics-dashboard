@@ -1,8 +1,8 @@
-## Internship Data Analysis Work Report (Day-to-Day)
+# Internship Data Analysis Work Report (Day-to-Day) 
 ----------------------------------------------------------------------------------------------
 
 # Overview of Internship Role
-As Member 3, my primary responsibility was to perform Exploratory Data Analysis (EDA) on the dataset to uncover patterns, trends, and relationships. 
+As *Member 3*, my primary responsibility was to perform Exploratory Data Analysis (EDA) on the dataset to uncover patterns, trends, and relationships. 
 I analyzed the data using statistical summaries and visual techniques to understand the underlying structure and behavior of different variables.
 I created and analyzed various charts and visualizations such as bar charts, line graphs, histograms, and comparative plots to identify distributions, 
 trends over time, and category-wise performance. These visual insights helped in detecting outliers, understanding data spread, and comparing key metrics.
@@ -23,41 +23,41 @@ I summarized Week 1 findings and finalized the analysis plan, deciding which var
 __________________________________________________________________________________________________________________________________________________
 
 # *Week 2: Exploratory Data Analysis (EDA) – Initial Exploration*
-* # Day 6: 
+* ## Day 6: 
 I began exploratory data analysis by understanding the overall structure of the dataset after it was cleaned by other team members. I focused on identifying key variables relevant to the analysis objective.
-* # Day 7:
+* ## Day 7:
 I analyzed summary statistics such as mean, median, minimum, and maximum values to understand the general behavior of numerical variables.
-* # Day 8: 
+* ## Day 8: 
 I explored categorical variables by calculating frequencies and proportions to identify dominant categories and patterns.
-* # Day 9:
+* ## Day 9:
 I studied relationships between important variables using comparisons and basic aggregations to see how different factors influenced the data.
-* # Day 10:
+* ## Day 10:
 I documented initial EDA observations and shared them with the team to guide further analysis and visualization.
 _____________________________________________________________________________________________________________________________________________
 
 # *Week 3: Exploratory Data Analysis (EDA) – Charts & Visualizations*
-* # Day 11:
+* ## Day 11:
 I created bar charts to compare category-wise performance and identify high- and low-performing segments.
-* # Day 12:
+* ## Day 12:
 I generated line charts to observe trends over time and understand changes in key metrics.
-* # Day 13:
+* ## Day 13:
 I plotted histograms and distribution plots to analyze data spread, skewness, and the presence of outliers.
-* # Day 14: 
+* ## Day 14: 
 I created comparative charts to study relationships between multiple variables and draw meaningful comparisons.
-* # Day 15
+* ## Day 15
 I summarized all visual insights, interpreted the patterns observed, and noted key findings from the EDA process.
 ________________________________________________________________________________________________________________________________________________
 
 # *Week 4: Insights, Interpretation & Reporting*
-* # Day 16:
+* ## Day 16:
 I interpreted patterns observed in the charts and linked them to real-world meaning. I identified key trends and anomalies.
-* # Day 17: 
+* ## Day 17: 
 I refined visualizations to improve clarity and readability. Charts were labeled properly for easy understanding.
-* # Day 18:
+* ## Day 18:
 I derived actionable insights from the analysis and noted potential recommendations based on the data.
-* # Day 19:
+* ## Day 19:
 I compiled all findings into a structured report format with clear explanations and supporting charts.
-* # Day 20:
+* ## Day 20:
 I reviewed the complete analysis, finalized documentation, and prepared the report for submission.
 _______________________________________________________________________________________________________________________________________________
 
