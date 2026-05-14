@@ -10,54 +10,54 @@ Based on the EDA results, I documented important observations and shared insight
 My role played a crucial part in transforming raw data into meaningful and interpretable insights.
 
 # *Week 1: Problem Understanding & Initial Data Exploration* 
-* Day 1
+* # Day 1: 
 I was introduced to the project objective and dataset. I understood the problem statement and business context behind the data. I explored the dataset structure by checking rows, columns, and basic metadata.
-Day 2
+* # Day 2: 
 I studied each column in detail to understand what information it represented. I identified numerical, categorical, and time-based variables and noted their relevance to the analysis.
-Day 3
+* # Day 3: 
 I performed basic statistical analysis such as mean, median, count, and range to get an initial understanding of data distribution. This helped identify unusual values and data quality issues.
-Day 4
+* # Day 4: 
 I checked for missing values and duplicate records. I documented initial observations and potential data issues that needed cleaning in the next phase.
-Day 5
+* # Day 5: 
 I summarized Week 1 findings and finalized the analysis plan, deciding which variables and metrics would be important for deeper analysis.
 __________________________________________________________________________________________________________________________________________________
 
 # *Week 2: Exploratory Data Analysis (EDA) – Initial Exploration*
-Day 6
+* # Day 6: 
 I began exploratory data analysis by understanding the overall structure of the dataset after it was cleaned by other team members. I focused on identifying key variables relevant to the analysis objective.
-Day 7
+* # Day 7:
 I analyzed summary statistics such as mean, median, minimum, and maximum values to understand the general behavior of numerical variables.
-Day 8
+* # Day 8: 
 I explored categorical variables by calculating frequencies and proportions to identify dominant categories and patterns.
-Day 9
+* # Day 9:
 I studied relationships between important variables using comparisons and basic aggregations to see how different factors influenced the data.
-Day 10
+* # Day 10:
 I documented initial EDA observations and shared them with the team to guide further analysis and visualization.
 _____________________________________________________________________________________________________________________________________________
 
 # *Week 3: Exploratory Data Analysis (EDA) – Charts & Visualizations*
-Day 11
+* # Day 11:
 I created bar charts to compare category-wise performance and identify high- and low-performing segments.
-Day 12
+* # Day 12:
 I generated line charts to observe trends over time and understand changes in key metrics.
-Day 13
+* # Day 13:
 I plotted histograms and distribution plots to analyze data spread, skewness, and the presence of outliers.
-Day 14
+* # Day 14: 
 I created comparative charts to study relationships between multiple variables and draw meaningful comparisons.
-Day 15
+* # Day 15
 I summarized all visual insights, interpreted the patterns observed, and noted key findings from the EDA process.
 ________________________________________________________________________________________________________________________________________________
 
 # *Week 4: Insights, Interpretation & Reporting*
-Day 16
+* # Day 16:
 I interpreted patterns observed in the charts and linked them to real-world meaning. I identified key trends and anomalies.
-Day 17
+* # Day 17: 
 I refined visualizations to improve clarity and readability. Charts were labeled properly for easy understanding.
-Day 18
+* # Day 18:
 I derived actionable insights from the analysis and noted potential recommendations based on the data.
-Day 19
+* # Day 19:
 I compiled all findings into a structured report format with clear explanations and supporting charts.
-Day 20
+* # Day 20:
 I reviewed the complete analysis, finalized documentation, and prepared the report for submission.
 _______________________________________________________________________________________________________________________________________________
 
