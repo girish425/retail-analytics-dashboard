@@ -95,6 +95,30 @@ Committed all SQL scripts with clear, semantic messages
    
 🔍 Drill-Down Capabilities
 
+# ✅ Week 4: Insight Generation, Reporting, and Final Submission
+
+## Completed Tasks
+
+During Week 4, the final phase of the project was successfully completed by focusing on dashboard analysis, business insight generation, reporting, and repository finalization.
+
+### Key Accomplishments
+
+- Analyzed the Power BI dashboard to identify important business insights and trends.
+- Generated actionable insights from sales and performance data.
+- Interpreted visualizations to understand revenue patterns, customer behavior, and sales distribution.
+- Prepared the final project report with findings, conclusions, and strategic recommendations.
+- Added proper documentation and explanations for dashboard components.
+- Finalized the GitHub repository with:
+  - Updated README documentation
+  - Dataset descriptions
+  - Project setup instructions
+  - Dashboard screenshots
+  - Organized project structure and reports
+
+### Outcome
+
+The project repository and dashboard were successfully completed and prepared for final submission with all required documentation and reporting materials.
+
 -Enabled users to explore data in detail through dynamic filtering and interactions.
 
 🚀 Outcome
